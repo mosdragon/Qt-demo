@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+b5d01eb74bbd1345727ad53925dc3601 CMakeFiles/qt-demo_automoc

@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -fPIC    CMakeFiles/qt-demo.dir/main.cpp.o CMakeFiles/qt-demo.dir/MainWindow.cpp.o CMakeFiles/qt-demo.dir/qt-demo_automoc.cpp.o  -o qt-demo -rdynamic /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.0.1 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.0.1 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.0.1 
