@@ -1,0 +1,2 @@
+/home/justbuchanan/Desktop/qt-demo/build/CMakeFiles/qt-demo.dir
+/home/justbuchanan/Desktop/qt-demo/build/CMakeFiles/qt-demo_automoc.dir
