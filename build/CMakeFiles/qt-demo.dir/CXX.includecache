@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/osama/Documents/demo2/qt-demo/MainWindow.cpp
+/home/osama/Documents/qt-demo/listWidget/MainWindow.cpp
 MainWindow.hpp
-/home/osama/Documents/demo2/qt-demo/MainWindow.hpp
+/home/osama/Documents/qt-demo/listWidget/MainWindow.hpp
 
-/home/osama/Documents/demo2/qt-demo/MainWindow.hpp
+/home/osama/Documents/qt-demo/listWidget/MainWindow.hpp
 QtWidgets
 -
 

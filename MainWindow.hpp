@@ -6,7 +6,9 @@ class MainWindow : public QMainWindow {
 public:
 	MainWindow();
 	int count = 0;
-	QLabel *label;
+	//QLabel *label;
+	QListWidget *listWidget;
 protected slots:
 	void react();
+	void addText();
 };

@@ -4,9 +4,9 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
-  "/home/osama/Documents/demo2/qt-demo/MainWindow.cpp" "/home/osama/Documents/demo2/qt-demo/build/CMakeFiles/qt-demo.dir/MainWindow.cpp.o"
-  "/home/osama/Documents/demo2/qt-demo/main.cpp" "/home/osama/Documents/demo2/qt-demo/build/CMakeFiles/qt-demo.dir/main.cpp.o"
-  "/home/osama/Documents/demo2/qt-demo/build/qt-demo_automoc.cpp" "/home/osama/Documents/demo2/qt-demo/build/CMakeFiles/qt-demo.dir/qt-demo_automoc.cpp.o"
+  "/home/osama/Documents/qt-demo/listWidget/MainWindow.cpp" "/home/osama/Documents/qt-demo/listWidget/build/CMakeFiles/qt-demo.dir/MainWindow.cpp.o"
+  "/home/osama/Documents/qt-demo/listWidget/main.cpp" "/home/osama/Documents/qt-demo/listWidget/build/CMakeFiles/qt-demo.dir/main.cpp.o"
+  "/home/osama/Documents/qt-demo/listWidget/build/qt-demo_automoc.cpp" "/home/osama/Documents/qt-demo/listWidget/build/CMakeFiles/qt-demo.dir/qt-demo_automoc.cpp.o"
   )
 SET(CMAKE_CXX_COMPILER_ID "GNU")
 

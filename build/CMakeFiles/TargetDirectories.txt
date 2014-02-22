@@ -1,2 +1,2 @@
-/home/osama/Documents/demo2/qt-demo/build/CMakeFiles/qt-demo.dir
-/home/osama/Documents/demo2/qt-demo/build/CMakeFiles/qt-demo_automoc.dir
+/home/osama/Documents/qt-demo/listWidget/build/CMakeFiles/qt-demo.dir
+/home/osama/Documents/qt-demo/listWidget/build/CMakeFiles/qt-demo_automoc.dir

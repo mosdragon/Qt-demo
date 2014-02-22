@@ -35,10 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/osama/Documents/demo2/qt-demo
+CMAKE_SOURCE_DIR = /home/osama/Documents/qt-demo/listWidget
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/osama/Documents/demo2/qt-demo/build
+CMAKE_BINARY_DIR = /home/osama/Documents/qt-demo/listWidget/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/qt-demo.dir/depend.make
@@ -51,17 +51,17 @@ include CMakeFiles/qt-demo.dir/flags.make
 
 CMakeFiles/qt-demo.dir/main.cpp.o: CMakeFiles/qt-demo.dir/flags.make
 CMakeFiles/qt-demo.dir/main.cpp.o: ../main.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/osama/Documents/demo2/qt-demo/build/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/osama/Documents/qt-demo/listWidget/build/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/qt-demo.dir/main.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/qt-demo.dir/main.cpp.o -c /home/osama/Documents/demo2/qt-demo/main.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/qt-demo.dir/main.cpp.o -c /home/osama/Documents/qt-demo/listWidget/main.cpp
 
 CMakeFiles/qt-demo.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/qt-demo.dir/main.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/osama/Documents/demo2/qt-demo/main.cpp > CMakeFiles/qt-demo.dir/main.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/osama/Documents/qt-demo/listWidget/main.cpp > CMakeFiles/qt-demo.dir/main.cpp.i
 
 CMakeFiles/qt-demo.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/qt-demo.dir/main.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/osama/Documents/demo2/qt-demo/main.cpp -o CMakeFiles/qt-demo.dir/main.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/osama/Documents/qt-demo/listWidget/main.cpp -o CMakeFiles/qt-demo.dir/main.cpp.s
 
 CMakeFiles/qt-demo.dir/main.cpp.o.requires:
 .PHONY : CMakeFiles/qt-demo.dir/main.cpp.o.requires
@@ -74,17 +74,17 @@ CMakeFiles/qt-demo.dir/main.cpp.o.provides.build: CMakeFiles/qt-demo.dir/main.cp
 
 CMakeFiles/qt-demo.dir/MainWindow.cpp.o: CMakeFiles/qt-demo.dir/flags.make
 CMakeFiles/qt-demo.dir/MainWindow.cpp.o: ../MainWindow.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/osama/Documents/demo2/qt-demo/build/CMakeFiles $(CMAKE_PROGRESS_2)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/osama/Documents/qt-demo/listWidget/build/CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/qt-demo.dir/MainWindow.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/qt-demo.dir/MainWindow.cpp.o -c /home/osama/Documents/demo2/qt-demo/MainWindow.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/qt-demo.dir/MainWindow.cpp.o -c /home/osama/Documents/qt-demo/listWidget/MainWindow.cpp
 
 CMakeFiles/qt-demo.dir/MainWindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/qt-demo.dir/MainWindow.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/osama/Documents/demo2/qt-demo/MainWindow.cpp > CMakeFiles/qt-demo.dir/MainWindow.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/osama/Documents/qt-demo/listWidget/MainWindow.cpp > CMakeFiles/qt-demo.dir/MainWindow.cpp.i
 
 CMakeFiles/qt-demo.dir/MainWindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/qt-demo.dir/MainWindow.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/osama/Documents/demo2/qt-demo/MainWindow.cpp -o CMakeFiles/qt-demo.dir/MainWindow.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/osama/Documents/qt-demo/listWidget/MainWindow.cpp -o CMakeFiles/qt-demo.dir/MainWindow.cpp.s
 
 CMakeFiles/qt-demo.dir/MainWindow.cpp.o.requires:
 .PHONY : CMakeFiles/qt-demo.dir/MainWindow.cpp.o.requires
@@ -97,17 +97,17 @@ CMakeFiles/qt-demo.dir/MainWindow.cpp.o.provides.build: CMakeFiles/qt-demo.dir/M
 
 CMakeFiles/qt-demo.dir/qt-demo_automoc.cpp.o: CMakeFiles/qt-demo.dir/flags.make
 CMakeFiles/qt-demo.dir/qt-demo_automoc.cpp.o: qt-demo_automoc.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/osama/Documents/demo2/qt-demo/build/CMakeFiles $(CMAKE_PROGRESS_3)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/osama/Documents/qt-demo/listWidget/build/CMakeFiles $(CMAKE_PROGRESS_3)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/qt-demo.dir/qt-demo_automoc.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/qt-demo.dir/qt-demo_automoc.cpp.o -c /home/osama/Documents/demo2/qt-demo/build/qt-demo_automoc.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/qt-demo.dir/qt-demo_automoc.cpp.o -c /home/osama/Documents/qt-demo/listWidget/build/qt-demo_automoc.cpp
 
 CMakeFiles/qt-demo.dir/qt-demo_automoc.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/qt-demo.dir/qt-demo_automoc.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/osama/Documents/demo2/qt-demo/build/qt-demo_automoc.cpp > CMakeFiles/qt-demo.dir/qt-demo_automoc.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/osama/Documents/qt-demo/listWidget/build/qt-demo_automoc.cpp > CMakeFiles/qt-demo.dir/qt-demo_automoc.cpp.i
 
 CMakeFiles/qt-demo.dir/qt-demo_automoc.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/qt-demo.dir/qt-demo_automoc.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/osama/Documents/demo2/qt-demo/build/qt-demo_automoc.cpp -o CMakeFiles/qt-demo.dir/qt-demo_automoc.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/osama/Documents/qt-demo/listWidget/build/qt-demo_automoc.cpp -o CMakeFiles/qt-demo.dir/qt-demo_automoc.cpp.s
 
 CMakeFiles/qt-demo.dir/qt-demo_automoc.cpp.o.requires:
 .PHONY : CMakeFiles/qt-demo.dir/qt-demo_automoc.cpp.o.requires
@@ -152,6 +152,6 @@ CMakeFiles/qt-demo.dir/clean:
 .PHONY : CMakeFiles/qt-demo.dir/clean
 
 CMakeFiles/qt-demo.dir/depend:
-	cd /home/osama/Documents/demo2/qt-demo/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/osama/Documents/demo2/qt-demo /home/osama/Documents/demo2/qt-demo /home/osama/Documents/demo2/qt-demo/build /home/osama/Documents/demo2/qt-demo/build /home/osama/Documents/demo2/qt-demo/build/CMakeFiles/qt-demo.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/osama/Documents/qt-demo/listWidget/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/osama/Documents/qt-demo/listWidget /home/osama/Documents/qt-demo/listWidget /home/osama/Documents/qt-demo/listWidget/build /home/osama/Documents/qt-demo/listWidget/build /home/osama/Documents/qt-demo/listWidget/build/CMakeFiles/qt-demo.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/qt-demo.dir/depend
 

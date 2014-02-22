@@ -35,10 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/osama/Documents/demo2/qt-demo
+CMAKE_SOURCE_DIR = /home/osama/Documents/qt-demo/listWidget
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/osama/Documents/demo2/qt-demo/build
+CMAKE_BINARY_DIR = /home/osama/Documents/qt-demo/listWidget/build
 
 # Utility rule file for qt-demo_automoc.
 
@@ -46,9 +46,9 @@ CMAKE_BINARY_DIR = /home/osama/Documents/demo2/qt-demo/build
 include CMakeFiles/qt-demo_automoc.dir/progress.make
 
 CMakeFiles/qt-demo_automoc:
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/osama/Documents/demo2/qt-demo/build/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/osama/Documents/qt-demo/listWidget/build/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Automoc for target qt-demo"
-	/usr/bin/cmake -E cmake_automoc /home/osama/Documents/demo2/qt-demo/build/CMakeFiles/qt-demo_automoc.dir/
+	/usr/bin/cmake -E cmake_automoc /home/osama/Documents/qt-demo/listWidget/build/CMakeFiles/qt-demo_automoc.dir/
 
 qt-demo_automoc: CMakeFiles/qt-demo_automoc
 qt-demo_automoc: CMakeFiles/qt-demo_automoc.dir/build.make
@@ -63,6 +63,6 @@ CMakeFiles/qt-demo_automoc.dir/clean:
 .PHONY : CMakeFiles/qt-demo_automoc.dir/clean
 
 CMakeFiles/qt-demo_automoc.dir/depend:
-	cd /home/osama/Documents/demo2/qt-demo/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/osama/Documents/demo2/qt-demo /home/osama/Documents/demo2/qt-demo /home/osama/Documents/demo2/qt-demo/build /home/osama/Documents/demo2/qt-demo/build /home/osama/Documents/demo2/qt-demo/build/CMakeFiles/qt-demo_automoc.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/osama/Documents/qt-demo/listWidget/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/osama/Documents/qt-demo/listWidget /home/osama/Documents/qt-demo/listWidget /home/osama/Documents/qt-demo/listWidget/build /home/osama/Documents/qt-demo/listWidget/build /home/osama/Documents/qt-demo/listWidget/build/CMakeFiles/qt-demo_automoc.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/qt-demo_automoc.dir/depend
 
